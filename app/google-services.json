@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "884949175208",
+    "firebase_url": "https://mapd-310c0.firebaseio.com",
+    "project_id": "mapd-310c0",
+    "storage_bucket": "mapd-310c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884949175208:android:4ebbf86264f0d2a7",
+        "android_client_info": {
+          "package_name": "com.pal.mapd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884949175208-g6kp5lun0u0urc5bllug8mr2827gb9or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pal.mapd",
+            "certificate_hash": "39c953e2f80fec4f82ae0d8dddbc343859c5a495"
+          }
+        },
+        {
+          "client_id": "884949175208-e80dresq1sj6alajacu4mm9i98r16648.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY25_WORpC6Qc9sXN5bTxdgcdenX6RdWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884949175208-e80dresq1sj6alajacu4mm9i98r16648.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
